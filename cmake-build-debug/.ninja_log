@@ -1,0 +1,11 @@
+# ninja log v5
+5	549	7365744679215481	CMakeFiles/do_you_know_your_abcs_problem.dir/main.cpp.obj	44973c4d8a75e1db
+551	681	7365744680498005	do_you_know_your_abcs_problem.exe	3cdb039c8c16c27e
+12	387	7365744862900821	CMakeFiles/do_you_know_your_abcs_problem.dir/main.cpp.obj	44973c4d8a75e1db
+387	472	7365744863735245	do_you_know_your_abcs_problem.exe	3cdb039c8c16c27e
+7	474	7365746722767188	CMakeFiles/do_you_know_your_abcs_problem.dir/main.cpp.obj	44973c4d8a75e1db
+475	589	7365746723877590	do_you_know_your_abcs_problem.exe	3cdb039c8c16c27e
+12	417	7365747162758566	CMakeFiles/do_you_know_your_abcs_problem.dir/main.cpp.obj	44973c4d8a75e1db
+419	504	7365747163594526	do_you_know_your_abcs_problem.exe	3cdb039c8c16c27e
+15	456	7365752895022383	CMakeFiles/do_you_know_your_abcs_problem.dir/main.cpp.obj	44973c4d8a75e1db
+457	554	7365752895933140	do_you_know_your_abcs_problem.exe	3cdb039c8c16c27e

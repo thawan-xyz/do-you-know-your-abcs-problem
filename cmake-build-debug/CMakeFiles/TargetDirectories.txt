@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/do-you-know-your-abcs-problem/cmake-build-debug/CMakeFiles/do_you_know_your_abcs_problem.dir
+C:/Users/Thawan/CLionProjects/do-you-know-your-abcs-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/do-you-know-your-abcs-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
